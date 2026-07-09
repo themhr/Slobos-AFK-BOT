@@ -1,7 +1,7 @@
 {
   "name": "Orbit Helper",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "H2k",
     "password": "",
     "type": "offline"
   },
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Slobos"
+      "password": "09052011@"
     },
     "anti-afk": {
       "enabled": true,
