@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "15.235.145.217",
-    "port": 10293,
+    "ip": "node.bdzcloud.fun",
+    "port": 19132,
     "version": "1.21.1"
   },
   "position": {
